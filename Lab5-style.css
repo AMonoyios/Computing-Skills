@@ -1,0 +1,37 @@
+body{
+    background-color: beige;
+    font-family: "Arial", Arial, sans-serif;
+}
+
+h1{
+    color: white;
+    background-color: cadetblue;
+    font-family: "Impact";
+}
+
+.Question1{
+    text-align: center;
+    border: 2px solid red;
+    border-bottom: 1px dashed cornflowerblue;
+}
+
+form {
+    text-align: center;
+    font-family: "Courier New";
+}
+
+#hint{
+    background-color: yellow;
+    text-align: center;
+    position: fixed;
+    top: 150px;
+    left: 75%;
+    height: 50px;
+    width: 60px;
+    border: 2px dashed red;
+}
+
+.Credit{
+    color: white;
+    background-color: cadetblue;
+}
